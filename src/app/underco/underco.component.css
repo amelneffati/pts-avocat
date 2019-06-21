@@ -1,0 +1,13 @@
+.underco {
+  font-size: 14px;
+  margin: 4rem;
+  margin-bottom: 2rem;
+}
+
+a, .gold, .fa-facebook, .fa-linkedin {
+  color: #C6A35A;
+}
+
+.fa-facebook, .fa-linkedin {
+  font-size: 26px;
+}
